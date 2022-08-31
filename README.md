@@ -1,2 +1,0 @@
-# hrenbank
-DevelNext Project
